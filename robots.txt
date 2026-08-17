@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imasu765.github.io/-another-illusion/sitemap.xml
